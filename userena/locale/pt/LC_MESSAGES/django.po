@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-07 19:00-0600\n"
+"POT-Creation-Date: 2011-02-16 05:07-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -386,7 +386,7 @@ msgid ""
 "Your account could not be activated. This could be because your activation "
 "link has aged."
 msgstr ""
-"A sua conta não pode activada. Isto pode estar a acontecer porqueo seu link "
+"A sua conta não pode activada. Isto pode estar a acontecer porque o seu link "
 "não se encontra mais registado"
 
 #: templates/userena/activate_fail.html:9
@@ -527,7 +527,7 @@ msgstr "Podes agora"
 
 #: templates/userena/password_reset_complete.html:7
 msgid "signin"
-msgstr "entrar"
+msgstr "Entrar"
 
 #: templates/userena/password_reset_complete.html:7
 msgid "with your new password."
@@ -600,7 +600,7 @@ msgstr "Editar Perfil"
 
 #: templates/userena/profile_form.html:24
 msgid "Save changes"
-msgstr "Guarda alterações"
+msgstr "Guardar alterações"
 
 #: templates/userena/profile_list.html:4
 msgid "Profiles"
